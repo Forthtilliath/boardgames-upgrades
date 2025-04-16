@@ -35,3 +35,6 @@ Les joueurs ne peuvent pas construire une station de recherche.
 Les joueurs ne peuvent pas trouver de remède à la maladie rouge.
 Ils peuvent toujours faire des vols direct (seule utilisation possible des cartes).
 
+A la fin du tour du joueur, celui ci ne pioche qu'une seule carte au lieu de 2.
+
+Lorsqu'une épidémie est tirée, il est possible pour le joueur possédant la carte de la ville de s'y téléporter pour bloquer la pose d'un cube si la ville sort à nouveau lors de la propagation.
