@@ -1,7 +1,3 @@
-Bien sûr, je peux le reformuler pour vous !
-
----
-
 # Scénario 1 : L'Émergence d'une Pandémie
 
 ## Contexte
