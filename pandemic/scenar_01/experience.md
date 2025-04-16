@@ -4,12 +4,13 @@ Si la partie se termine sur une défaite, les joueurs commenceront le prochain s
 
 ## Expérience en fonction des éclosions
 
-0 => 3 exp
-1 => 2 exp
-2 => 1 exp
-3 => 0 exp
+- 0 => 3 exp
+- 1 => 2 exp
+- 2 => 1 exp
+- 3 => 0 exp
 
 ## Expérience en fonction du nombre de cubes sur le plateau
 
-Moins de 10: 2 exp
-Moins de 20: 1 exp
+- 8 ou moins: 2 exp
+- 16 ou moins: 1 exp
+- 17 et plus : 0 exp
