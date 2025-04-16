@@ -18,6 +18,35 @@ Explorer des villes asiatiques : Les cartes de ces villes rouges contiennent des
 Collaborer et faire des choix difficiles : Le temps presse. Chaque décision peut avoir des conséquences importantes. Serez-vous capable de travailler ensemble pour équilibrer les ressources et prioriser les interventions ?
 Faire face à des imprévus : Le virus évolue rapidement. Attendez-vous à des événements inattendus qui pourraient changer le cours de votre mission.
 
+## Mise en Place
+
+### Plateau
+
+Mettre une station de recherche sur Paris.
+Mettre les pions des joueurs sur Paris.
+Piocher 2 cartes Propagation, ajouter 3 cubes.
+Piocher 2 cartes Propagation, ajouter 2 cubes.
+Piocher 2 cartes Propagation, ajouter 1 cube.
+Mettre le marqueur de vitesse de propagation sur la première case.
+Mettre le marqueur d'éclosions sur 5.
+
+### Paquet Propagation
+
+Ne conserver que les cartes rouges.
+
+### Paquet Joueurs
+
+Ne conserver que les cartes rouges.
+Ne pas ajouter de cartes.
+
+### Objectifs
+Le but de cette première mission est d'éviter que la maladie rouge se propage.
+
+## Fin de la Partie
+La partie se termine sur une victoire lorsqu'un joueur devrait piocher une carte Joueur mais que celui-ci est vide.
+La partie se termine sur une défaite au bout de 3 éclosions.
+La partie se termine s'il n'y a pas assez de cubes.
+
 ## Conclusion
 
 L’avenir de la santé mondiale est entre vos mains. Serez-vous capables de contenir cette menace grandissante avant qu'elle ne devienne une pandémie mondiale ? La coopération, la stratégie et la détermination seront vos meilleures alliées. En avant, agents de santé, le monde compte sur vous !
