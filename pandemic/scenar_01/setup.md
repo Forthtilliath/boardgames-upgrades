@@ -9,6 +9,9 @@ Piocher 2 cartes Propagation, ajouter 3 cubes.
 Piocher 2 cartes Propagation, ajouter 2 cubes.
 Piocher 2 cartes Propagation, ajouter 1 cube.
 
+Mettre le marqueur de vitesse de propagation sur la première case.
+Mettre le marqueur d'éclosions sur 5.
+
 ## Paquet Propagation
 
 Ne conserver que les cartes rouges.
@@ -29,7 +32,7 @@ Les joueurs ne peuvent effecter que 2 (ou 3?) actions par tour.
 
 # Modification des règles
 
-Une carte Epidémie fait avancer l'indicateur de vitesse de propagation de 2 au lieu de 1.
+Une carte Epidémie fait avancer l'indicateur de vitesse de propagation de 2 cases au lieu de 1.
 
 Les joueurs ne peuvent pas construire une station de recherche.
 Les joueurs ne peuvent pas trouver de remède à la maladie rouge.
