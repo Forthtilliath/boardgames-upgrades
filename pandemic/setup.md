@@ -11,7 +11,7 @@ Piocher 2 cartes Propagation, ajouter 1 cube.
 
 ## Paquet Propagation
 
-Ne conserver que les cartes rouges
+Ne conserver que les cartes rouges.
 
 ## Paquet Joueurs
 
@@ -25,6 +25,13 @@ Piocher 3 cartes Epidemie.
 
 Les joueurs commencent avec une seule carte. 
 Les joueurs n'ont aucun pouvoir.
-Liste des actions supprimées :
-- construire une station de recherche
-- trouver un remède
+Les joueurs ne peuvent effecter que 2 (ou 3?) actions par tour.
+
+# Modification des règles
+
+Une carte Epidémie fait avancer l'indicateur de vitesse de propagation de 2 au lieu de 1.
+
+Les joueurs ne peuvent pas construire une station de recherche.
+Les joueurs ne peuvent pas trouver de remède à la maladie rouge.
+Ils peuvent toujours faire des vols direct (seule utilisation possible des cartes).
+
