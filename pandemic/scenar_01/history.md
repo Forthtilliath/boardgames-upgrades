@@ -57,7 +57,3 @@ L'objectif de cette première mission est d'empêcher la propagation de la malad
 ## Conclusion
 
 L’avenir de la santé mondiale repose entre vos mains. Saurez-vous contenir cette menace grandissante avant qu'elle ne se transforme en pandémie mondiale ? La coopération, la stratégie et la détermination seront vos meilleurs atouts. En avant, agents de santé, le monde compte sur vous !
-
---- 
-
-Qu’en pensez-vous ? Cela vous semble-t-il mieux ? 😊
