@@ -40,3 +40,14 @@ Votre objectif consiste à développer un remède pour la maladie rouge, constru
 ## Conclusion
 
 Avec la menace grandissante du virus rouge, la coopération et la créativité sont plus cruciales que jamais. Saurez-vous unir vos forces pour sauver la santé mondiale et éliminer cette menace insidieuse ? En avant, agents de santé !
+
+## Résumé
+
+**Version Réussie :**
+Bravo ! Vous avez non seulement soigné la maladie rouge, mais vous avez également posé les bases pour éradiquer cette menace. Vos décisions stratégiques et votre collaboration efficace ont sauvé d'innombrables vies. En avançant, sachez que votre travail a été crucial pour affronter d'autres menaces. Soyez prêts à relever les prochains défis avec confiance.
+
+**Version Échouée :**
+La résurgence de la maladie rouge a été un coup dur. Vos efforts pour contrôler sa propagation n'ont pas suffi, et la menace persiste. Bien que la défaite soit difficile à encaisser, il est essentiel d'en tirer des leçons pour aller de l'avant. Dressez le bilan de cette mission et préparez-vous à relever le défi lors de la prochaine mission : le monde a besoin de vous.
+
+**Version Cas Particulier :**
+Vous avez réussi à soigner la maladie rouge, mais malgré vos efforts, elle n'a pas été éradiquée. Bien que certaines villes aient été préservées, d'autres demeurent menacées. Vous avez acquis de l'expérience et renforcé votre équipe, mais il reste encore beaucoup à faire. Utilisez cette connaissance pour naviguer dans vos prochaines missions.
