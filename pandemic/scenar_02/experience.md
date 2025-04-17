@@ -21,7 +21,12 @@ En cas de défaite, les joueurs débuteront le prochain scénario avec une carte
 - **Aucune ville avec 3 cubes :** 3 points d'expérience  
 - **1 ou 2 villes avec 3 cubes :** 2 point d'expérience  
 - **3 ou 4 villes avec 3 cubes :** 1 point d'expérience
-- **5 ou plus avec 3 cubes :** 0 point d'expérience  
+- **5 ou plus avec 3 cubes :** 0 point d'expérience
+
+### Expérience en fonction du Nombre d'épidémie
+
+- **3 épidémies**: 0 point d'expérience
+- **4 épidémies**: 3 point d'expérience (rattrape en partie les pertes de la mission 1)
 
 ### Total d'Expérience
 
