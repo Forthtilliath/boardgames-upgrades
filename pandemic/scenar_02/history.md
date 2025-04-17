@@ -1,41 +1,51 @@
-# Scénario 2 : La Résurgence
+# Scénario 2 : L’Assaut du Virus Rouge
 
 ## Contexte
 
-L'année est maintenant 2024. Après avoir réussi à contenir la pandémie précédente, le monde a relâché sa vigilance. Toutefois, des fragments du virus ont subsisté, prenant une forme inattendue. Une nouvelle résurgence de la maladie est déclarée, se propageant à travers le monde d’une manière encore plus agressive. Les agents de santé publique doivent à nouveau intervenir avec des stratégies innovantes pour éviter un désastre mondial.
+Nous sommes en 2024. Bien que la première pandémie ait été maîtrisée, le virus rouge fait son retour, plus virulent et insidieux que jamais. Avec des cas qui apparaissent partout, en particulier en Amérique, les agents de santé publique doivent rapidement prendre des mesures décisives pour éviter une nouvelle catastrophe mondiale.
 
 ## L'Histoire
 
-Une conférence mondiale est convoquée pour examiner les leçons de la dernière pandémie. Cependant, alors que les dirigeants prennent la parole, les premières alertes émergent : des cas isolés commencent à apparaître sur chaque continent, et ces éclosions semblent liées à des souches mutantes du virus. Les nouvelles technologies de santé et les approches innovantes sont mises à l'épreuve.
+Une nouvelle forme du virus rouge se propage rapidement, et les autorités sont en alerte. Des infections se déclarent à un rythme alarmant dans plusieurs villes, et il devient impératif de contrôler sa propagation. Vous devez non seulement soigner le virus, mais aussi éradiquer totalement son existence pour garantir la sécurité mondiale.
 
-Vous et votre équipe d'agents de santé publique êtes rappelés pour une nouvelle mission. Votre mission : identifier la source de cette résurgence et contenir l'épidémie avant qu'elle ne transcende les frontières.
+## Objectifs
+
+1. **Soigner la Maladie Rouge :** Les joueurs doivent collecter 5 cartes rouges pour créer un remède à la maladie rouge. Cela nécessite une coordination efficace entre les agents et une gestion des ressources limitée.
+
+2. **Construire un Centre de Recherche :** Les joueurs ont la possibilité de construire un Centre de Recherche dans une ville rouge, ce qui permettra de :
+   - Réduire le nombre de cubes de maladie rouge dans cette ville de 1 à chaque tour.
+   - Aider à développer un remède plus rapidement (par exemple, réduire le nombre de cartes nécessaires à 4 au lieu de 5 si le Centre de Recherche est actif).
+
+3. **Éradiquer la Maladie Rouge :** Une fois le remède développé, les joueurs peuvent tenter d’éradiquer la maladie rouge en utilisant une carte de remède dans une ville où ils ont construit un Centre de Recherche. Pour éradiquer complètement la maladie, ils devront :
+   - Soigner toutes les villes rouges tout en s’assurant qu’il n’y a plus de cubes rouges restants sur le plateau.
+   - Exécuter une action spécifique qui requiert un tour entier pour planifier l'éradication afin de solidifier leur stratégie.
+
+4. **Gérer les Éclosions :** Chaque éclosion pose un risque supplémentaire de propagation. Les joueurs doivent veiller à un nombre maximum d'éclosions (par exemple, 3) tout en ajoutant de nouvelles cartes de propagation noires qui introduisent des villes à risque.
 
 ## Nouveaux Défis
 
-1. **Souches Mutantes :** Les nouvelles cartes de propagation introduitent des mutations du virus. Si une zone rouge atteint un certain niveau d’éclosions, vous devez piocher des cartes de crise qui imposent des restrictions supplémentaires sur vos actions pour cette zone (par exemple, diminuer le nombre de cubes que vous pouvez retirer ou augmenter le coût en ressources pour traiter).
+- **Coût Élevé de Construction :** La construction d’un Centre de Recherche nécessite des ressources (par exemple, 2 cubes de recherche ou des déplacements spécifiques vers certaines villes). Cela ajoute un niveau de difficulté supplémentaire !
+  
+- **Ressources Limités :** À chaque tour, les cartes de propagation noires ajoutent des cubes de virus dans de nouvelles zones, rendant la construction des Centres de Recherche et le soin des maladies plus difficiles à gérer.
 
-2. **Ressources Limitées :** En raison de la résurgence rapide du virus, les ressources médicales sont épuisées plus rapidement. Vous aurez besoin de faire des échanges entre les villes pour optimiser vos ressources pour développer un vaccin. Cela ajoute un nouveau niveau de stratégie, car les échanges peuvent prendre du temps.
-
-3. **Événements Catastrophes :** Utilisez les cartes d'événements pour introduire des catastrophes imprévues telles que des catastrophes naturelles ou des mouvements de population (comme des réfugiés cherchant refuge dans les grandes villes), ce qui complique encore la gestion des foyers d'infection.
-
-4. **Agents(s) Individuels :** Impliquez des personnages ayant des capacités spéciales (comme dans certaines extensions), permettant à chaque joueur de privilégier un rôle unique (comme le Medecin qui peut traiter des maladies bien plus vite ou le Recherche qui peut découvrir des remèdes sans avoir à traiter les maladies).
+- **Cartes Événements :** Introduisez une mécanique de cartes événements qui pourrait offrir des avantages temporaires, comme un traitement plus rapide ou un bonus de déplacement.
 
 ## Mise en Place 
 
 ### Plateau de Jeu
 
-- Ajoutez des cubes de nouvelles souches de virus sur chaque zone rouge déjà active.
-- Localisez les villes affaiblies par les nouvelles souches en piochant des cartes de propagation supplémentaires au début de chaque tour.
+- Ajoutez des cubes de la maladie rouge selon l’état actuel des villes.
+- Prévoyez une limite sur le nombre de Centres de Recherche pouvant être construits sur le plateau.
 
-### Objectifs
+### Objectif Final
 
-L'objectif de cette mission est de développer un remède contre les nouvelles souches tout en contrôlant les foyers d'infection. Les joueurs doivent trouver un équilibre entre la recherche, le traitement et la distribution des ressources.
+L'objectif est de développer un remède pour la maladie rouge, construire des Centres de Recherche et éradiquer totalement la maladie, tout en contrôlant les éclosions et en maintenant le nombre de cubes de virus à un niveau tolérable.
 
 ## Conditions de Fin de Partie
 
-- Victoire : Vous parvenez à développer un remède pour toutes les souches avant qu'un nombre prédéterminé d'éclosions ne se produise (ex: 5 éclosions).
-- Défaite : Vous perdez après avoir atteint un certain nombre d'éclosions ou si le stock de ressources atteint zéro.
+- **Victoire :** Les joueurs parviennent à éradiquer la maladie rouge.
+- **Défaite :** Si le nombre d’éclosions atteint 3 ou si le nombre de cubes de virus rouge dépasse un seuil prédéterminé.
 
 ## Conclusion
 
-Une bataille acharnée pour la survie de la santé mondiale est à nouveau engagée. La coopération, l'innovation et la capacité à s'adapter seront essentielles pour surmonter cette résurgence. En avant, agents de santé, un nouveau défi vous attend !
+Avec la menace de la résurgence du virus rouge, la coopération et l'innovation sont plus essentielles que jamais. Saurez-vous travailler ensemble pour sauver la santé mondiale et éradiquer ce virus insidieux ? En avant, agents de santé !
