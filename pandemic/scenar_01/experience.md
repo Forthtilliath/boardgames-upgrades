@@ -1,16 +1,22 @@
-# Gain d'expériences
+## Scénario 1 : Gain d'Expériences
 
-Si la partie se termine sur une défaite, les joueurs commenceront le prochain scénario avec une carte Epidémie supplémentaire !
+### Règles Générales
 
-## Expérience en fonction des éclosions
+Si la partie se termine par une défaite, les joueurs commenceront le prochain scénario avec une carte Épidémie supplémentaire, renforçant ainsi la difficulté et incitant à une meilleure planification pour l'avenir.
 
-- 0 => 3 exp
-- 1 => 2 exp
-- 2 => 1 exp
-- 3 => 0 exp
+### Expérience en fonction des Éclosions
 
-## Expérience en fonction du nombre de cubes sur le plateau
+- **0 éclosion :** 3 points d'expérience  
+- **1 éclosion :** 2 points d'expérience  
+- **2 éclosions :** 1 point d'expérience  
+- **3 éclosions :** 0 point d'expérience
 
-- 8 ou moins: 2 exp
-- 16 ou moins: 1 exp
-- 17 et plus : 0 exp
+### Expérience en fonction du Nombre de Cubes sur le Plateau
+
+- **8 cubes ou moins :** 2 points d'expérience  
+- **16 cubes ou moins :** 1 point d'expérience  
+- **17 cubes et plus :** 0 point d'expérience
+
+### Total d'Expérience
+
+Additionnez les points d'expérience accumulés pour chaque joueur à la fin du scénario pour favoriser la progression individuelle.
