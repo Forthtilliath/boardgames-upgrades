@@ -53,3 +53,14 @@ L'objectif de cette première mission est d'empêcher la propagation de la malad
 ## Conclusion
 
 L’avenir de la santé mondiale repose entre vos mains. Saurez-vous contenir cette menace grandissante avant qu'elle ne se transforme en pandémie mondiale ? La coopération, la stratégie et la détermination seront vos meilleurs atouts. En avant, agents de santé, le monde compte sur vous !
+
+## Résumé
+
+**Version Réussie :**
+Félicitations ! Grâce à votre coopération et à votre stratégie, vous avez réussi à contenir la menace du virus. Vous avez soigné toutes les villes touchées et limité le nombre d’éclosions. Votre travail acharné a protégé la santé mondiale et réduit la propagation. Préparez-vous pour les défis à venir, forts de votre succès.
+
+**Version Échouée :**
+Malheureusement, la situation a échappé à votre contrôle. Malgré vos efforts, le virus a continué à se propager, laissant derrière lui des éclosions et des villes en détresse. Des leçons difficiles vous attendent, mais vous devez rapidement vous préparer pour la prochaine mission. La santé mondiale dépendra de votre résilience.
+
+**Version Cas Particulier :**
+Votre mission a été un mélange de réussites et de revers. Bien que certaines villes aient été soignées, d'autres ont subi de graves éclosions. Vous avez appris à travailler ensemble, mais les défis de la pandémie persistent. Utilisez votre expérience pour faire face aux obstacles à venir. Chaque erreur peut se transformer en leçon précieuse.
